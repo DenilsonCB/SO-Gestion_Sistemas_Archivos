@@ -1,0 +1,11 @@
+# Binarios y objetos compilados
+fs_demo
+pruebas
+*.o
+*.exe
+*.out
+
+# Archivos temporales del editor
+*.swp
+*~
+.DS_Store
